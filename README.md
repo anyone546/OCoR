@@ -1,5 +1,5 @@
 # OCoR
-## An Overlap-Awared Code Retriver
+## An Overlap-Aware Code Retriver
 ## Usage
 ### To Train New Model
 ```
